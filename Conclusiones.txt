@@ -1,0 +1,16 @@
+```txt
+CONCLUSIONES
+
+1. Se implementó una solución E2E con Serenity BDD y patrón Screenplay para automatizar el flujo de compra en SauceDemo.
+
+2. Se validó correctamente el flujo completo: login, selección de productos, carrito, checkout y confirmación final.
+
+3. Se generaron reportes de ejecución con Serenity para evidenciar los resultados de las pruebas.
+
+4. Durante la implementación E2E se presentó una interferencia del navegador Chrome por un popup del gestor de contraseñas.
+
+5. Para asegurar estabilidad y continuidad del reto, se decidió ejecutar las pruebas E2E en Microsoft Edge con driver configurado manualmente.
+
+6. La automatización E2E permite detectar errores en flujos críticos del negocio, reduciendo riesgos en producción y mejorando la calidad del producto.
+
+
