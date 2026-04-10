@@ -1,0 +1,12 @@
+{
+  "successfulPurchase": {
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "product1": "Sauce Labs Backpack",
+    "product2": "Sauce Labs Bike Light",
+    "firstName": "Katty",
+    "lastName": "Suarez",
+    "postalCode": "090150",
+    "confirmationMessage": "Thank you for your order!"
+  }
+}
